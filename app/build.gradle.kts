@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lab_week_3"
+    namespace = "com.example.labweek03"
     compileSdk = 36
 
     defaultConfig {
